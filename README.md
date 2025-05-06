@@ -1,2 +1,1 @@
-# writeup
-Write-up for ctf lab
+Write-up for CTF lab
